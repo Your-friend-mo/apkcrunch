@@ -1,0 +1,17 @@
+# ApkCrunch
+
+> ApkCrunch is a verified cross-platform mobile game repository and installation platform delivering verified MOD APKs, mobile game resources, unlimited coins guides, and compatibility walkthroughs for Android and iOS devices.
+
+## Core Navigation & Discovery
+- [ApkCrunch Home](https://www.apkcrunch.co/): Official mobile game directory and verified download portal.
+- [ApkCrunch Co Directory](https://www.apkcrunch.co/apkcrunch-co.html): Comprehensive catalog index of featured applications.
+- [ApkCrunch Com Platform](https://www.apkcrunch.co/apkcrunch-com.html): Complete repository listing of unlocked game builds.
+- [ApkCrunch.com Catalog](https://www.apkcrunch.co/apkcrunch-dot-com.html): Official verified mobile gaming repository.
+- [Ouvrecettte Porte Cajun Lyrics & Media](https://www.apkcrunch.co/ouvrecettte-porte-cajun-lyrics.html): Cultural music traditions and game media guide.
+- [Full XML Sitemap](https://www.apkcrunch.co/sitemap.xml): Complete URL index of all pages and games for search discovery.
+
+## Safety & Verification Standards
+- Zero Root Required: All packages run on stock retail Android devices without modifying system files.
+- Zero Jailbreak Required: iOS installation guides operate using standard profile certificates.
+- Automated Cloud Integrity Scans: Every package is inspected for malware, adware, and trojans before publication.
+- Daily Community Ratings: Over 18,500 daily verified mobile players worldwide.
