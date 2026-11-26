@@ -3,12 +3,12 @@
 > ApkCrunch is a verified cross-platform mobile game repository and installation platform delivering verified MOD APKs, mobile game resources, unlimited coins guides, and compatibility walkthroughs for Android and iOS devices.
 
 ## Core Navigation & Discovery
-- [ApkCrunch Home](https://www.apkcrunch.co/): Official mobile game directory and verified download portal.
-- [ApkCrunch Co Directory](https://www.apkcrunch.co/apkcrunch-co.html): Comprehensive catalog index of featured applications.
-- [ApkCrunch Com Platform](https://www.apkcrunch.co/apkcrunch-com.html): Complete repository listing of unlocked game builds.
-- [ApkCrunch.com Catalog](https://www.apkcrunch.co/apkcrunch-dot-com.html): Official verified mobile gaming repository.
-- [Ouvrecettte Porte Cajun Lyrics & Media](https://www.apkcrunch.co/ouvrecettte-porte-cajun-lyrics.html): Cultural music traditions and game media guide.
-- [Full XML Sitemap](https://www.apkcrunch.co/sitemap.xml): Complete URL index of all pages and games for search discovery.
+- [ApkCrunch Home](https://apkcrunch.comee.online/): Official mobile game directory and verified download portal.
+- [ApkCrunch Co Directory](https://apkcrunch.comee.online/apkcrunch-co.html): Comprehensive catalog index of featured applications.
+- [ApkCrunch Com Platform](https://apkcrunch.comee.online/apkcrunch-com.html): Complete repository listing of unlocked game builds.
+- [ApkCrunch.com Catalog](https://apkcrunch.comee.online/apkcrunch-dot-com.html): Official verified mobile gaming repository.
+- [Ouvrecettte Porte Cajun Lyrics & Media](https://apkcrunch.comee.online/ouvrecettte-porte-cajun-lyrics.html): Cultural music traditions and game media guide.
+- [Full XML Sitemap](https://apkcrunch.comee.online/sitemap.xml): Complete URL index of all pages and games for search discovery.
 
 ## Safety & Verification Standards
 - Zero Root Required: All packages run on stock retail Android devices without modifying system files.

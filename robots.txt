@@ -31,4 +31,4 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://www.apkcrunch.co/sitemap.xml
+Sitemap: https://apkcrunch.comee.online/sitemap.xml
