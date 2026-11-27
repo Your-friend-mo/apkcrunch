@@ -1,361 +1,649 @@
-// ApkCrunch.co Clone — Catalog Data
-// Configure your destination URL for the final "Verify & Continue" button here:
+// ApkCrunch Catalog Data
 window.APKCRUNCH_CONFIG = {
-  siteName: "ApkCrunch.co",
-  downloadRedirectUrl: "#download-ready", // Replace with your own download or locker URL
-  postsPerPage: 7
+  siteName: "ApkCrunch",
+  downloadRedirectUrl: "#download-ready",
+  postsPerPage: 8
 };
 
 window.APKCRUNCH_POSTS = [
   {
-    id: 1,
-    slug: "manok-na-pula-mod-apk-unlimited-money",
-    title: "Manok Na Pula MOD APK (Unlimited Money and Coins)",
-    shortTitle: "Manok Na Pula",
-    category: "Games",
-    date: "Oct 23 2026",
-    author: "ApkCrunch",
-    image: "img/app-1.webp",
-    emoji: "🐔",
-    particles: ["🐔", "🔥", "💰", "💎"],
-    downloadsToday: "18,729",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "💎 Unlimited Gems Guide",
-      "💰 Unlimited Money Feature",
-      "🔓 Premium Setup Instructions"
+    "id": 1,
+    "slug": "manok-na-pula-mod-apk-unlimited-money",
+    "title": "Manok Na Pula MOD APK (Unlimited Money and Coins)",
+    "shortTitle": "Manok Na Pula",
+    "category": "Games",
+    "date": "Oct 23 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-1.webp",
+    "emoji": "\ud83d\udc14",
+    "particles": [
+      "\ud83d\udc14",
+      "\ud83d\udd25",
+      "\ud83d\udcb0",
+      "\ud83d\udc8e"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "18,729",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited Gems Guide",
+      "\ud83d\udcb0 Unlimited Money Feature",
+      "\ud83d\udd13 Premium Setup Instructions"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 2,
-    slug: "xp-hero-mod-apk-unlimited-money",
-    title: "XP HERO MOD APK (Unlimited Money and Coins)",
-    shortTitle: "XP HERO",
-    category: "Games",
-    date: "Oct 12 2026",
-    author: "ApkCrunch",
-    image: "img/app-2.webp",
-    emoji: "⚔️",
-    particles: ["⚔️", "🔥", "💰", "🛡️"],
-    downloadsToday: "14,312",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "💎 Unlimited Gems & Diamonds",
-      "💰 Unlimited Money & Coins",
-      "🔓 All Heroes & Upgrades Unlocked"
+    "id": 2,
+    "slug": "xp-hero-mod-apk-unlimited-money",
+    "title": "XP HERO MOD APK (Unlimited Money and Coins)",
+    "shortTitle": "XP HERO",
+    "category": "Games",
+    "date": "Oct 12 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-2.webp",
+    "emoji": "\u2694\ufe0f",
+    "particles": [
+      "\u2694\ufe0f",
+      "\ud83d\udd25",
+      "\ud83d\udcb0",
+      "\ud83d\udee1\ufe0f"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "14,312",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited Gems & Diamonds",
+      "\ud83d\udcb0 Unlimited Money & Coins",
+      "\ud83d\udd13 All Heroes & Upgrades Unlocked"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 3,
-    slug: "top-tycoon-hack-2026-free-spins-energy",
-    title: "TOP TYCOON HACK 2026 (Free Spins, Energy & Coins)",
-    shortTitle: "TOP TYCOON",
-    category: "Games",
-    date: "Aug 30 2026",
-    author: "ApkCrunch",
-    image: "img/app-3.webp",
-    emoji: "🎩",
-    particles: ["🎩", "⚡", "💰", "🎰"],
-    downloadsToday: "21,540",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "⚡ Unlimited Free Spins & Energy",
-      "💰 Unlimited Coins Feature",
-      "🔓 Premium Setup Instructions"
+    "id": 3,
+    "slug": "top-tycoon-hack-2026-free-spins-energy",
+    "title": "TOP TYCOON HACK 2026 (Free Spins, Energy & Coins)",
+    "shortTitle": "TOP TYCOON",
+    "category": "Games",
+    "date": "Aug 30 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-3.webp",
+    "emoji": "\ud83c\udfa9",
+    "particles": [
+      "\ud83c\udfa9",
+      "\u26a1",
+      "\ud83d\udcb0",
+      "\ud83c\udfb0"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "21,540",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\u26a1 Unlimited Free Spins & Energy",
+      "\ud83d\udcb0 Unlimited Coins Feature",
+      "\ud83d\udd13 Premium Setup Instructions"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 4,
-    slug: "car-parking-multiplayer-mod-apk",
-    title: "Car Parking Multiplayer MOD APK (Unlimited Money, Coins)",
-    shortTitle: "Car Parking Multiplayer",
-    category: "Games",
-    date: "Aug 29 2026",
-    author: "ApkCrunch",
-    image: "img/app-4.webp",
-    emoji: "🚗",
-    particles: ["🚗", "🏁", "💰", "🔑"],
-    downloadsToday: "32,894",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "🏎️ All Cars & W16 Engine Unlocked",
-      "💰 Unlimited Money & Gold Coins",
-      "🔓 No Ads & Free Shopping"
+    "id": 4,
+    "slug": "car-parking-multiplayer-mod-apk",
+    "title": "Car Parking Multiplayer MOD APK (Unlimited Money, Coins)",
+    "shortTitle": "Car Parking Multiplayer",
+    "category": "Games",
+    "date": "Aug 29 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-4.webp",
+    "emoji": "\ud83d\ude97",
+    "particles": [
+      "\ud83d\ude97",
+      "\ud83c\udfc1",
+      "\ud83d\udcb0",
+      "\ud83d\udd11"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "32,894",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83c\udfce\ufe0f All Cars & W16 Engine Unlocked",
+      "\ud83d\udcb0 Unlimited Money & Gold Coins",
+      "\ud83d\udd13 No Ads & Free Shopping"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 5,
-    slug: "dream-league-soccer-2026-mod-apk",
-    title: "Dream League Soccer 2026 Mod APK (Unlimited Coins & Diamonds)",
-    shortTitle: "Dream League Soccer 2026",
-    category: "Games",
-    date: "Aug 28 2026",
-    author: "ApkCrunch",
-    image: "img/app-5.webp",
-    emoji: "⚽",
-    particles: ["⚽", "🏆", "💎", "💰"],
-    downloadsToday: "29,418",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "💎 Unlimited Diamonds Guide",
-      "💰 Unlimited Coins Feature",
-      "🔓 All Legendary Players Unlocked"
+    "id": 5,
+    "slug": "dream-league-soccer-2026-mod-apk",
+    "title": "Dream League Soccer 2026 Mod APK (Unlimited Coins & Diamonds)",
+    "shortTitle": "Dream League Soccer 2026",
+    "category": "Games",
+    "date": "Aug 28 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-5.webp",
+    "emoji": "\u26bd",
+    "particles": [
+      "\u26bd",
+      "\ud83c\udfc6",
+      "\ud83d\udc8e",
+      "\ud83d\udcb0"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "29,418",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited Diamonds Guide",
+      "\ud83d\udcb0 Unlimited Coins Feature",
+      "\ud83d\udd13 All Legendary Players Unlocked"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 6,
-    slug: "mech-arena-mod-apk-unlimited-money-gems",
-    title: "Mech Arena MOD APK (Unlimited Money & Gems)",
-    shortTitle: "Mech Arena",
-    category: "Games",
-    date: "Aug 05 2026",
-    author: "ApkCrunch",
-    image: "img/app-6.webp",
-    emoji: "🤖",
-    particles: ["🤖", "🔥", "💎", "⚡"],
-    downloadsToday: "16,205",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "💎 Unlimited A-Coins & Gems",
-      "💰 Unlimited Credits Feature",
-      "🔓 All Mechs & Weapons Unlocked"
+    "id": 6,
+    "slug": "mech-arena-mod-apk-unlimited-money-gems",
+    "title": "Mech Arena MOD APK (Unlimited Money & Gems)",
+    "shortTitle": "Mech Arena",
+    "category": "Games",
+    "date": "Aug 05 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-6.webp",
+    "emoji": "\ud83e\udd16",
+    "particles": [
+      "\ud83e\udd16",
+      "\ud83d\udd25",
+      "\ud83d\udc8e",
+      "\u26a1"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "16,205",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited A-Coins & Gems",
+      "\ud83d\udcb0 Unlimited Credits Feature",
+      "\ud83d\udd13 All Mechs & Weapons Unlocked"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 7,
-    slug: "one-state-rp-mod-menu-unlimited-money",
-    title: "One State RP MOD MENU (Unlimited Money, Weapons & God Mode)",
-    shortTitle: "One State RP",
-    category: "Games",
-    date: "Aug 05 2026",
-    author: "ApkCrunch",
-    image: "img/app-7.webp",
-    emoji: "🚓",
-    particles: ["🚓", "🔫", "💰", "🔥"],
-    downloadsToday: "19,876",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "🛡️ Full MOD Menu & God Mode",
-      "💰 Unlimited Money & Weapons",
-      "🔓 Premium Setup Instructions"
+    "id": 7,
+    "slug": "one-state-rp-mod-menu-unlimited-money",
+    "title": "One State RP MOD MENU (Unlimited Money, Weapons & God Mode)",
+    "shortTitle": "One State RP",
+    "category": "Games",
+    "date": "Aug 05 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-7.webp",
+    "emoji": "\ud83d\ude93",
+    "particles": [
+      "\ud83d\ude93",
+      "\ud83d\udd2b",
+      "\ud83d\udcb0",
+      "\ud83d\udd25"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "19,876",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udee1\ufe0f Full MOD Menu & God Mode",
+      "\ud83d\udcb0 Unlimited Money & Weapons",
+      "\ud83d\udd13 Premium Setup Instructions"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 8,
-    slug: "baseball-9-mod-apk-unlimited-money-and-gems",
-    title: "BASEBALL 9 MOD APK (Unlimited Money and Gems)",
-    shortTitle: "BASEBALL 9",
-    category: "Games",
-    date: "Aug 05 2026",
-    author: "ApkCrunch",
-    image: "img/app-8.webp",
-    emoji: "⚾",
-    particles: ["⚾", "🏆", "💎", "💰"],
-    downloadsToday: "24,615",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "💎 Unlimited Gems Guide",
-      "💰 Unlimited Money Feature",
-      "🔓 Max Level Players & Gear"
+    "id": 8,
+    "slug": "baseball-9-mod-apk-unlimited-money-and-gems",
+    "title": "BASEBALL 9 MOD APK (Unlimited Money and Gems)",
+    "shortTitle": "BASEBALL 9",
+    "category": "Games",
+    "date": "Aug 05 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-8.webp",
+    "emoji": "\u26be",
+    "particles": [
+      "\u26be",
+      "\ud83c\udfc6",
+      "\ud83d\udc8e",
+      "\ud83d\udcb0"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "24,615",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited Gems Guide",
+      "\ud83d\udcb0 Unlimited Money Feature",
+      "\ud83d\udd13 Max Level Players & Gear"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 9,
-    slug: "fc-mobile-mod-apk-latest-version",
-    title: "FC MOBILE MOD APK Latest Version (Unlimited Money & Coins)",
-    shortTitle: "FC MOBILE",
-    category: "Games",
-    date: "Aug 05 2026",
-    author: "ApkCrunch",
-    image: "img/app-9.webp",
-    emoji: "⚽",
-    particles: ["⚽", "🔥", "💰", "🏆"],
-    downloadsToday: "35,102",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "💎 Unlimited FC Points & Gems",
-      "💰 Unlimited Coins Feature",
-      "🔓 Premium Setup Instructions"
+    "id": 9,
+    "slug": "fc-mobile-mod-apk-latest-version",
+    "title": "FC MOBILE MOD APK Latest Version (Unlimited Money & Coins)",
+    "shortTitle": "FC MOBILE",
+    "category": "Games",
+    "date": "Aug 05 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-9.webp",
+    "emoji": "\u26bd",
+    "particles": [
+      "\u26bd",
+      "\ud83d\udd25",
+      "\ud83d\udcb0",
+      "\ud83c\udfc6"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "35,102",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited FC Points & Gems",
+      "\ud83d\udcb0 Unlimited Coins Feature",
+      "\ud83d\udd13 Premium Setup Instructions"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 10,
-    slug: "efootball-pes-2027-mod-apk",
-    title: "efootball PES 2027 MOD APK (Unlimited Money, Coins)",
-    shortTitle: "eFootball PES 2027",
-    category: "Games",
-    date: "Aug 05 2026",
-    author: "ApkCrunch",
-    image: "img/app-10.webp",
-    emoji: "⚽",
-    particles: ["⚽", "⭐", "💰", "💎"],
-    downloadsToday: "27,930",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "💎 Unlimited eFootball Coins",
-      "💰 Unlimited GP & Money",
-      "🔓 All Epic & Iconic Players"
+    "id": 10,
+    "slug": "efootball-pes-2027-mod-apk",
+    "title": "efootball PES 2027 MOD APK (Unlimited Money, Coins)",
+    "shortTitle": "eFootball PES 2027",
+    "category": "Games",
+    "date": "Aug 05 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-10.webp",
+    "emoji": "\u26bd",
+    "particles": [
+      "\u26bd",
+      "\u2b50",
+      "\ud83d\udcb0",
+      "\ud83d\udc8e"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "27,930",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited eFootball Coins",
+      "\ud83d\udcb0 Unlimited GP & Money",
+      "\ud83d\udd13 All Epic & Iconic Players"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 11,
-    slug: "madout-2-mod-apk-latest-version",
-    title: "MADOUT 2 MOD APK Latest Version (Unlimited Money)",
-    shortTitle: "MADOUT 2",
-    category: "Games",
-    date: "Aug 05 2026",
-    author: "ApkCrunch",
-    image: "img/app-11.webp",
-    emoji: "🏎️",
-    particles: ["🏎️", "🔥", "💰", "💥"],
-    downloadsToday: "15,440",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "💎 Unlimited Diamonds & Cash",
-      "🚗 All Vehicles Unlocked",
-      "🔓 Premium Setup Instructions"
+    "id": 11,
+    "slug": "madout-2-mod-apk-latest-version",
+    "title": "MADOUT 2 MOD APK Latest Version (Unlimited Money)",
+    "shortTitle": "MADOUT 2",
+    "category": "Games",
+    "date": "Aug 05 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-11.webp",
+    "emoji": "\ud83c\udfce\ufe0f",
+    "particles": [
+      "\ud83c\udfce\ufe0f",
+      "\ud83d\udd25",
+      "\ud83d\udcb0",
+      "\ud83d\udca5"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "15,440",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited Diamonds & Cash",
+      "\ud83d\ude97 All Vehicles Unlocked",
+      "\ud83d\udd13 Premium Setup Instructions"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 12,
-    slug: "car-parking-multiplayer-2-mod-apk",
-    title: "Car Parking Multiplayer 2 MOD APK (Unlimited Money, Gold)",
-    shortTitle: "Car Parking Multiplayer 2",
-    category: "Games",
-    date: "Aug 05 2026",
-    author: "ApkCrunch",
-    image: "img/app-12.webp",
-    emoji: "🚘",
-    particles: ["🚘", "🏁", "💰", "✨"],
-    downloadsToday: "31,208",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "💎 Unlimited Gold & Money",
-      "🚗 All Premium Cars Unlocked",
-      "🔓 Custom Tuning & Skins"
+    "id": 12,
+    "slug": "car-parking-multiplayer-2-mod-apk",
+    "title": "Car Parking Multiplayer 2 MOD APK (Unlimited Money, Gold)",
+    "shortTitle": "Car Parking Multiplayer 2",
+    "category": "Games",
+    "date": "Aug 05 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-12.webp",
+    "emoji": "\ud83d\ude98",
+    "particles": [
+      "\ud83d\ude98",
+      "\ud83c\udfc1",
+      "\ud83d\udcb0",
+      "\u2728"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "31,208",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited Gold & Money",
+      "\ud83d\ude97 All Premium Cars Unlocked",
+      "\ud83d\udd13 Custom Tuning & Skins"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
     ]
   },
   {
-    id: 13,
-    slug: "carx-street-mod-apk-latest-version",
-    title: "CarX Street MOD APK Latest Version (Unlimited Money)",
-    shortTitle: "CarX Street",
-    category: "Games",
-    date: "Aug 04 2026",
-    author: "ApkCrunch",
-    image: "img/app-13.webp",
-    emoji: "🏁",
-    particles: ["🏁", "🚗", "🔥", "💰"],
-    downloadsToday: "28,761",
-    subtitle: "Latest Build • Premium Features • Install Guide",
-    build: "Latest",
-    support: "Android/iOs",
-    status: "Updated",
-    features: [
-      "💎 Unlimited Street Coins & Gold",
-      "🏎️ All Drift & Race Cars Unlocked",
-      "🔓 Premium Setup Instructions"
+    "id": 13,
+    "slug": "carx-street-mod-apk-latest-version",
+    "title": "CarX Street MOD APK Latest Version (Unlimited Money)",
+    "shortTitle": "CarX Street",
+    "category": "Games",
+    "date": "Aug 04 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-13.webp",
+    "emoji": "\ud83c\udfc1",
+    "particles": [
+      "\ud83c\udfc1",
+      "\ud83d\ude97",
+      "\ud83d\udd25",
+      "\ud83d\udcb0"
     ],
-    checks: [
-      "✅ Fast Loading Process",
-      "✅ No Fixed Version Number",
-      "✅ Installation Guide Included"
+    "downloadsToday": "28,761",
+    "subtitle": "Latest Build \u2022 Premium Features \u2022 Install Guide",
+    "build": "Latest",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited Street Coins & Gold",
+      "\ud83c\udfce\ufe0f All Drift & Race Cars Unlocked",
+      "\ud83d\udd13 Premium Setup Instructions"
+    ],
+    "checks": [
+      "\u2705 Fast Loading Process",
+      "\u2705 No Fixed Version Number",
+      "\u2705 Installation Guide Included"
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "subway-surfers-mod-apk-unlimited-coins-keys",
+    "title": "Subway Surfers MOD APK (Unlimited Coins, Keys & All Characters)",
+    "shortTitle": "Subway Surfers",
+    "category": "Games",
+    "date": "Nov 25 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-14.webp",
+    "emoji": "\ud83c\udfc4",
+    "particles": [
+      "\ud83c\udfc4",
+      "\u26a1",
+      "\ud83d\udcb0",
+      "\ud83d\udd11"
+    ],
+    "downloadsToday": "34,890",
+    "subtitle": "Unlimited Coins & Keys \u2022 All Boards & Outfits Unlocked",
+    "build": "v3.28.0",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udcb0 Unlimited Coins & Gold Keys",
+      "\ud83c\udfc4 All Special Boards & Characters Unlocked",
+      "\u26a1 2x Score Multiplier & Maxed Powerups"
+    ],
+    "checks": [
+      "\u2705 Verified Clean Cloud Scan",
+      "\u2705 No Root or Jailbreak Needed",
+      "\u2705 60 FPS Smooth Gameplay Verified"
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "roblox-mod-apk-mod-menu-unlimited-robux",
+    "title": "Roblox MOD APK (Mod Menu, Unlimited Robux & God Mode)",
+    "shortTitle": "Roblox",
+    "category": "Games",
+    "date": "Nov 24 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-15.webp",
+    "emoji": "\ud83e\uddf1",
+    "particles": [
+      "\ud83e\uddf1",
+      "\u2728",
+      "\ud83d\udc8e",
+      "\ud83d\udee1\ufe0f"
+    ],
+    "downloadsToday": "42,150",
+    "subtitle": "Mod Menu \u2022 Ghost Mode \u2022 Fly Hack \u2022 Super Jump",
+    "build": "v2.660",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udee1\ufe0f Built-In Mod Menu with 50+ Toggles",
+      "\ud83d\ude80 Wallhack, Fly Hack & Super Jump",
+      "\ud83d\udc8e In-Game Avatar Unlocks Guide"
+    ],
+    "checks": [
+      "\u2705 Anti-Ban Hook Active",
+      "\u2705 Works on Android & iOS Retail",
+      "\u2705 Regular Weekly Catalog Updates"
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "free-fire-max-mod-apk-aimbot-diamonds",
+    "title": "Free Fire MAX MOD APK (Auto Headshot, Aimbot & Diamonds)",
+    "shortTitle": "Free Fire MAX",
+    "category": "Games",
+    "date": "Nov 22 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-16.webp",
+    "emoji": "\ud83d\udd25",
+    "particles": [
+      "\ud83d\udd25",
+      "\ud83c\udfaf",
+      "\ud83d\udc8e",
+      "\ud83d\udc80"
+    ],
+    "downloadsToday": "38,720",
+    "subtitle": "Auto Headshot \u2022 ESP Line \u2022 Ultra HD Graphics",
+    "build": "v2.108",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83c\udfaf 99% Auto Headshot Precision & Aimbot",
+      "\ud83d\udc41\ufe0f Antenna & ESP Line Radar Hack",
+      "\ud83d\udc8e Free Diamond Top-Up Method"
+    ],
+    "checks": [
+      "\u2705 Tested on OB44 Patch",
+      "\u2705 Server Bypass Verification",
+      "\u2705 Zero Performance Stutter"
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "brawl-stars-mod-apk-unlimited-gems-brawlers",
+    "title": "Brawl Stars MOD APK (Unlimited Gems, All Brawlers Unlocked)",
+    "shortTitle": "Brawl Stars",
+    "category": "Games",
+    "date": "Nov 20 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-17.webp",
+    "emoji": "\u2b50",
+    "particles": [
+      "\u2b50",
+      "\ud83d\udc8e",
+      "\ud83d\udca5",
+      "\ud83c\udfc6"
+    ],
+    "downloadsToday": "29,410",
+    "subtitle": "Private Server \u2022 Unlimited Boxes \u2022 All Hypercharges",
+    "build": "v58.279",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc8e Unlimited Free Gems & Gold Coins",
+      "\ud83d\udd13 All Legendary Brawlers & Hypercharges",
+      "\ud83c\udf81 Infinite Mega Boxes & Starr Drops"
+    ],
+    "checks": [
+      "\u2705 Dedicated Low Ping Server",
+      "\u2705 100% Virus-Free Package",
+      "\u2705 Easy One-Tap Installation"
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "stumble-guys-mod-apk-unlocked-skins-gems",
+    "title": "Stumble Guys MOD APK (Unlocked All Skins, Unlimited Gems)",
+    "shortTitle": "Stumble Guys",
+    "category": "Games",
+    "date": "Nov 18 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-18.webp",
+    "emoji": "\ud83c\udfc3",
+    "particles": [
+      "\ud83c\udfc3",
+      "\ud83d\udc51",
+      "\ud83d\udc8e",
+      "\ud83c\udf89"
+    ],
+    "downloadsToday": "26,830",
+    "subtitle": "All Mythic & Special Skins \u2022 Unlimited Stumble Pass",
+    "build": "v0.77",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udc51 All Special & Mythic Skins Unlocked",
+      "\ud83d\udc8e Unlimited Gems & Stumble Tokens",
+      "\ud83e\udd4a Punch & Kick Emotes Unlocked"
+    ],
+    "checks": [
+      "\u2705 Retail Safe & Zero Root",
+      "\u2705 Global Party Mode Compatible",
+      "\u2705 Clean Installation Tested"
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "gta-san-andreas-mod-apk-unlimited-money",
+    "title": "GTA San Andreas MOD APK (Definitive Edition, Unlimited Money)",
+    "shortTitle": "GTA San Andreas",
+    "category": "Games",
+    "date": "Nov 16 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-19.webp",
+    "emoji": "\ud83d\ude97",
+    "particles": [
+      "\ud83d\ude97",
+      "\ud83d\udcb0",
+      "\ud83c\udf34",
+      "\ud83d\udd2b"
+    ],
+    "downloadsToday": "31,240",
+    "subtitle": "Cleo Cheats Menu \u2022 HD Remastered Textures \u2022 Max Stats",
+    "build": "v2.11",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udcb0 Infinite Cash & Max Stamina Stats",
+      "\ud83d\udd79\ufe0f Built-in Cleo Cheats Menu & Car Spawn",
+      "\ud83d\udd2b All Weapons & Unlimited Ammo"
+    ],
+    "checks": [
+      "\u2705 Integrated OBB Cache Installer",
+      "\u2705 Android 14/15 Support Tested",
+      "\u2705 Offline Story Mode Verified"
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "shadow-fight-2-mod-apk-unlimited-money",
+    "title": "Shadow Fight 2 MOD APK (Special Edition, Unlimited Money & Gems)",
+    "shortTitle": "Shadow Fight 2",
+    "category": "Games",
+    "date": "Nov 14 2026",
+    "author": "ApkCrunch",
+    "image": "img/app-20.webp",
+    "emoji": "\ud83e\udd4b",
+    "particles": [
+      "\ud83e\udd4b",
+      "\u2694\ufe0f",
+      "\ud83d\udc8e",
+      "\ud83c\udf11"
+    ],
+    "downloadsToday": "22,470",
+    "subtitle": "Max Level 52 \u2022 Titan Weapons \u2022 Unlimited Energy",
+    "build": "v2.35",
+    "support": "Android/iOs",
+    "status": "Updated",
+    "features": [
+      "\ud83d\udcb0 Unlimited Coins & Gems",
+      "\u2694\ufe0f Titan Sword & Boss Armor Unlocked",
+      "\ud83e\udd4b Instant Max Level 52 Enchantments"
+    ],
+    "checks": [
+      "\u2705 Special Edition No-Ads Experience",
+      "\u2705 Safe Local Save File Support",
+      "\u2705 Full Offline Campaign Verified"
     ]
   }
 ];
